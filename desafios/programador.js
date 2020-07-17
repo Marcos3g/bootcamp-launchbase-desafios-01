@@ -1,6 +1,6 @@
 const programador = {
-    nome: "Mayk",
-    idade: 35,
+    nome: "Marcos",
+    idade: 21,
     tecnologias:  [
         { nome: 'JavaScript', especialidade: 'Desktop' }, 
         { nome: 'JavaScript', especialidade: 'Web/Mobile' }
